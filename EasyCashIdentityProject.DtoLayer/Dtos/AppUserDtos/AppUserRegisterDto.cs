@@ -16,4 +16,3 @@ namespace EasyCashIdentityProject.DtoLayer.Dtos.AppUserDtos
         public string ConfirmPassword { get; set; }
     }
 }
-//ad, soyad, username, mail, password, confirmPassword
